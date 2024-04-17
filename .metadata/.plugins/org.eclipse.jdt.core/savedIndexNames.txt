@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Alexander\ws-eclipse\Java_completo\aula173excessoes\.metadata\.plugins\org.eclipse.jdt.core
+3729101479.index
+1865797976.index
+72758655.index
